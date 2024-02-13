@@ -2,12 +2,12 @@ Uuid: 59dce89e125a411c9bc38c54df0c599a
 ExtensionType: 1
 Name: JScriptor
 RepoName: jscriptor
-ScreenVersion: 1.3
-SerialVersion: 2
-MinPlatformVersion: 10
+ScreenVersion: 2.01
+SerialVersion: 3
+MinPlatformVersion: 15
 ProOnly: False
 Author: Nguyen Duy Quoc Khanh
 ShortDescription: Use JavaScript to run pre and post request scripts.
-EntryPoint: build/libs/JScriptor-1.3.jar
+EntryPoint: build/libs/JScriptor-2.01.jar
 BuildCommand: ./gradlew jar
 SupportedProducts: Pro, Community
